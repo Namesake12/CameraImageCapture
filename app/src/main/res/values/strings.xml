@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">
+        Camera Image Capture
+    </string>
+    <string name="button_1_text">
+        Silent
+    </string>
+    <string name="button_2_text">
+        Ringer
+    </string>
+    <string name="button_3_text">
+        Vibrate
+    </string>
+
+    <string name="default_ringer_mode">
+        RINGER_MODE_NORMAL
+    </string>
+</resources>
